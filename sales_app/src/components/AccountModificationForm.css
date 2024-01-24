@@ -1,0 +1,20 @@
+.account-modification-container {
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .account-modification-input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .account-modification-buttons {
+    display: flex;
+    flex-direction: column; /* Arrange buttons vertically */
+    gap: 10px; /* Add some spacing between buttons */
+  }
+  
+  .account-modification-buttons button {
+    width: 100%; /* Full width */
+  }
